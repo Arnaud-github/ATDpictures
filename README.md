@@ -1,2 +1,2 @@
-# Arnaud-github.ATD.github.io
+# ATDpictures
 webpage for ATD repository
