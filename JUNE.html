@@ -1,1 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>May Images</title>
+<style>
+  /* Container for all figures */
+  .image-row {
+    display: flex;              /* Arrange items horizontally */
+    gap: 20px;                  /* Space between images */
+    flex-wrap: wrap;            /* Wrap to next line on small screens */
+    justify-content: center;    /* Center images horizontally */
+  }
 
+  /* Each figure (image + caption) */
+  figure {
+    margin: 0;
+    text-align: center;         /* Center caption text */
+    max-width: 200px;           /* Limit image width */
+  }
+
+  /* Images */
+  figure img {
+    width: 100%;                /* Make image responsive */
+    height: auto;
+    border-radius: 8px;         /* Optional rounded corners */
+    display: block;
+  }
+
+  /* Captions */
+  figcaption {
+    margin-top: 8px;
+    font-size: 0.9em;
+    color: #555;
+  }
+</style>
+</head>
+
+<body>
+
+<div class="image-row">
+<figure>
+<img src="AllPictureFiles/JUNE/VINCENT_June2026_1.jpeg" alt="A creek">
+<figcaption> VINCENT_June2026_1 </figcaption>
+</figure>
+<figure>
+<img src="AllPictureFiles/JUNE/VINCENT_June2026_2.jpeg" alt="A creek">
+<figcaption> VINCENT_June2026_2 </figcaption>
+</figure>
+</div>
+
+</body>
+  
+</html>
