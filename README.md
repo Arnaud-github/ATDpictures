@@ -11,6 +11,6 @@ webpage for ATD repository
 <a href="https://arnaud-github.github.io/ATDpictures/JULY.html" target="_blank">JULY</a>
 <a href="https://arnaud-github.github.io/ATDpictures/AUGUST.html" target="_blank">AUGUST</a>
 <a href="https://arnaud-github.github.io/ATDpictures/SEPTEMBER.html" target="_blank">SEPTEMBER</a>
-<a href="https://arnaud-github.github.io/ATDpictures/OCTOBER.html" target="_blank">SEPTEMBER</a>
+<a href="https://arnaud-github.github.io/ATDpictures/OCTOBER.html" target="_blank">OCTOBER</a>
 <a href="https://arnaud-github.github.io/ATDpictures/NOVEMBER.html" target="_blank">NOVEMBER</a>
 <a href="https://arnaud-github.github.io/ATDpictures/DECEMBER.html" target="_blank">DECEMBER</a>
